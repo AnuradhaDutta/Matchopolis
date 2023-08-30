@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Matchopolis/static/css/main.06135341.css",
+    "main.js": "/Matchopolis/static/js/main.03daf30c.js",
+    "index.html": "/Matchopolis/index.html",
+    "main.06135341.css.map": "/Matchopolis/static/css/main.06135341.css.map",
+    "main.03daf30c.js.map": "/Matchopolis/static/js/main.03daf30c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06135341.css",
+    "static/js/main.03daf30c.js"
+  ]
+}
